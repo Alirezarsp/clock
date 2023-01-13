@@ -1,3 +1,2 @@
 # clock
-JavaScript-project
-Project made by Alirezarsp
+JavaScript-project made by Alirezarsp
